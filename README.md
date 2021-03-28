@@ -29,11 +29,11 @@ our team develop.
 Categories of OpenStreetMap road network: Source:
 https://wiki.openstreetmap.org/wiki/Map_features
 
-| Motorway  | A restricted access major divided highway, normally with 2 or more running lanes plus emergency hard shoulder. Equivalent to the Freeway, Autobahn, etc.  | [media/d722abf7b9b28d4e47aeccbd6e315c7b.jpeg](media/d722abf7b9b28d4e47aeccbd6e315c7b.jpeg) Auckland Northern Motorway, New Zealand |
-|-----------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------|
-| Trunk     | The most important roads in a country's system that aren't motorways. (Need not necessarily be a divided highway.)                                        | [media/947dc529e247051bb6b672c736e0d19f.jpeg](media/947dc529e247051bb6b672c736e0d19f.jpeg) L3005, Eschborn, Germany                |
-| Primary   | The next most important roads in a country's system. (Often link larger towns.)                                                                           | [media/2850f658b788a3438b40f3299da80fc3.jpeg](media/2850f658b788a3438b40f3299da80fc3.jpeg) Hunsrückhöhenstraße, Kappel, Germany    |
-| Secondary | The next most important roads in a country's system. (Often link towns.)                                                                                  | [media/b63aee436fb6076edeedf455d11a3c54.jpeg](media/b63aee436fb6076edeedf455d11a3c54.jpeg) L134, Meyenburg, Schwanewede, Germany   |
+| Motorway  | A restricted access major divided highway, normally with 2 or more running lanes plus emergency hard shoulder. Equivalent to the Freeway, Autobahn, etc. |
+|-----------|----------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Trunk     | The most important roads in a country's system that aren't motorways. (Need not necessarily be a divided highway.)                                       |
+| Primary   | The next most important roads in a country's system. (Often link larger towns.)                                                                          |
+| Secondary | The next most important roads in a country's system. (Often link towns.)                                                                                 |
 
 Our team is devoted to developing enterprise grade open-source tools for
 transportation modeling, in a broader context of computational transportation
