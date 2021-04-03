@@ -8,7 +8,7 @@ machine readable format for sharing routable road network files.
     infrastructure** in the U.S., our ASU team provides a web-based interface to
     visualize multimodal transportation networks, state by state, for both rail
     and highway modes. <https://asu-trans-ai-lab.github.io/web/index.html#/> You
-    can select Either Bing or OSM base maps.
+    can select either Bing or OSM as the base map.
 
 2.  We also provide **open data set of rail and highway networks** from
     [\#OpenStreetMap](https://www.linkedin.com/feed/hashtag/?keywords=openstreetmap&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A6783468501521756161),
