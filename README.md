@@ -4,10 +4,26 @@ The [General Modeling Network Specification
 (GMNS)](https://github.com/zephyr-data-specs/GMNS) defines a common human and
 machine readable format for sharing routable road network files.
 
-By simply uploading node.csv and link.csv at
-<https://asu-trans-ai-lab.github.io/index.html#/>, you can easily create custom
-[online maps](https://en.wikipedia.org/wiki/Online_maps) for any GMNS network
-files.
+1.  To facilitate a better understanding of **multimodal transportation
+    infrastructure** in the U.S., our ASU team provides a web-based interface to
+    visualize multimodal transportation networks, state by state, for both rail
+    and highway modes. <https://asu-trans-ai-lab.github.io/web/index.html#/> You
+    can select Either Bing or OSM base maps.
+
+2.  We also provide **open data set of rail and highway networks** from
+    [\#OpenStreetMap](https://www.linkedin.com/feed/hashtag/?keywords=openstreetmap&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A6783468501521756161),
+    in
+    [\#GMNS](https://www.linkedin.com/feed/hashtag/?keywords=gmns&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A6783468501521756161)
+    format, at
+    <https://github.com/asu-trans-ai-lab/Integrated_modeling_GMNS/tree/main/examples/United_States_network>
+    . For system-level planning, detailed information, such as company ownership
+    capacity and commodity demand, is still needed for rail networks along this
+    line.
+
+3.  By simply uploading node.csv and link.csv at
+    <https://asu-trans-ai-lab.github.io/index.html#/>, you can easily **create
+    custom** [online maps](https://en.wikipedia.org/wiki/Online_maps) **for any
+    GMNS network files**.
 
 ![](media/b68219e7074c4f3c1d02c075072ef8d7.png)
 
